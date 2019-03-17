@@ -20,7 +20,7 @@
 
 /*
  * title:
- *      Tavanyar
+ *      Tavanyar (Arduino)
  *
  * description:
  *      Tavanyar is a system which detects and evaluates physical therapy exercises automatically using motion
