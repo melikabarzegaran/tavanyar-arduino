@@ -242,8 +242,8 @@ struct CalibrationData {
  * TODO: Update this when adding/removing a MPU-6050 module to/from the system.
  */
 const CalibrationData calibrationDataArray[numberOfMotionTrackingDevices] = {
-        {-3378, 1078, 1193, 66, -10, 118},
-        {-2002, -55,  1245, 46, 61,  39}
+        {-3338, 1077, 1184, 71, -13, 121}, /* 2, 0, 16382, 0, -1, -1 */
+        {-1900, -44,  1243, 46, 61,  34} /* 6, 5, 16386, 0, 0, 1 */
 };
 
 /*
